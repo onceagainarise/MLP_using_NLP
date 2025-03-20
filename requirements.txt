@@ -1,0 +1,15 @@
+numpy
+pandas
+transformers 
+scikit-learn   
+textblob 
+sacremoses   
+langdetect
+langid
+sentencepiece   
+torch 
+joblib    
+wordcloud  
+seaborn 
+matplotlib
+                          

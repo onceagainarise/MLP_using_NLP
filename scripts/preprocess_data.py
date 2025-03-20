@@ -16,7 +16,7 @@ def clean_text(text):
 
 try:
     
-    data = pd.read_csv('C:/Users/nishi/Documents/project/Code/data/cleaned_data.csv', delimiter='\t')
+    data = pd.read_csv('C:/Userscleaned_data.csv', delimiter='\t')
     
    
     print("Initial columns:", data.columns)

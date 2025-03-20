@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-data = pd.read_csv('C:/Users/nishi/Documents/project/Code/data/language_detection_data.csv')
+data = pd.read_csv('C:/Users/language_detection_data.csv')
 
 
 print("Available columns:", data.columns)

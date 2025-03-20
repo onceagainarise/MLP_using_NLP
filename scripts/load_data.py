@@ -8,4 +8,4 @@ print(data.info())
 print(data.head())
 
 
-data.to_csv('C:/Userscleaned_data.csv', sep='\t', index= False)
+data.to_csv('C:/Users/cleaned_data.csv', sep='\t', index= False)

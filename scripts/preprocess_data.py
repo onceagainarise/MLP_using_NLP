@@ -31,7 +31,7 @@ try:
         print(data[['Tweet', 'cleaned_text']].head())  
 
        
-        data.to_csv('C:/Users/nishi/Documents/project/Code/data/preprocessed_data.csv', index=False)
+        data.to_csv('C:/Users/preprocessed_data.csv', index=False)
     else:
         print("Column 'Tweet' not found in the input data.")
 

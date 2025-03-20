@@ -2,7 +2,7 @@ import pandas as pd
 from textblob import TextBlob
 
 
-data = pd.read_csv('C:/Users/nishi/Documents/project/Code/data/preprocessed_data.csv')
+data = pd.read_csv('C:/Users/preprocessed_data.csv')
 
 if data['cleaned_text'].isnull().any():
     print("Missing values found in cleaned_text. Filling with empty strings.")
